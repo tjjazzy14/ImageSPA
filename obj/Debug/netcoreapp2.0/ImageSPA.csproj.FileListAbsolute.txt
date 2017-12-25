@@ -1,0 +1,13 @@
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\ImageSPA.deps.json
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\ImageSPA.runtimeconfig.json
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\ImageSPA.runtimeconfig.dev.json
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\ImageSPA.dll
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\ImageSPA.pdb
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\ImageSPA.csproj.CoreCompileInputs.cache
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\ImageSPA.AssemblyInfoInputs.cache
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\ImageSPA.AssemblyInfo.cs
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\ImageSPA.dll
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\ImageSPA.pdb
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\ImageSPA.csprojResolveAssemblyReference.cache
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\SimpleImageGallery.Data.dll
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\SimpleImageGallery.Data.pdb
