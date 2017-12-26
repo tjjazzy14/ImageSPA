@@ -5044,6 +5044,19 @@
         "runtime": {
           "bin/placeholder/SimpleImageGallery.Data.dll": {}
         }
+      },
+      "SimpleImageGallery.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "SimpleImageGallery.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SimpleImageGallery.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleImageGallery.Services.dll": {}
+        }
       }
     }
   },
@@ -13133,6 +13146,11 @@
       "type": "project",
       "path": "../SimpleImageGallery.Data/SimpleImageGallery.Data.csproj",
       "msbuildProject": "../SimpleImageGallery.Data/SimpleImageGallery.Data.csproj"
+    },
+    "SimpleImageGallery.Services/1.0.0": {
+      "type": "project",
+      "path": "../SimpleImageGallery.Services/SimpleImageGallery.Services.csproj",
+      "msbuildProject": "../SimpleImageGallery.Services/SimpleImageGallery.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13140,7 +13158,8 @@
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.1",
-      "SimpleImageGallery.Data >= 1.0.0"
+      "SimpleImageGallery.Data >= 1.0.0",
+      "SimpleImageGallery.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13176,6 +13195,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "C:\\Users\\tjjazzy\\Documents\\My Web Sites\\SimpleImageGallery.Services\\SimpleImageGallery.Services.csproj": {
+              "projectPath": "C:\\Users\\tjjazzy\\Documents\\My Web Sites\\SimpleImageGallery.Services\\SimpleImageGallery.Services.csproj"
+            },
             "C:\\Users\\tjjazzy\\Documents\\My Web Sites\\SimpleImageGallery.Data\\SimpleImageGallery.Data.csproj": {
               "projectPath": "C:\\Users\\tjjazzy\\Documents\\My Web Sites\\SimpleImageGallery.Data\\SimpleImageGallery.Data.csproj"
             }

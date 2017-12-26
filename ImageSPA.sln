@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageSPA", "ImageSPA.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery.Data", "..\SimpleImageGallery.Data\SimpleImageGallery.Data.csproj", "{B7E18333-D077-4AFF-8BE2-01EBD2E2BC9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImageGallery.Services", "..\SimpleImageGallery.Services\SimpleImageGallery.Services.csproj", "{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B7E18333-D077-4AFF-8BE2-01EBD2E2BC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E18333-D077-4AFF-8BE2-01EBD2E2BC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E18333-D077-4AFF-8BE2-01EBD2E2BC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

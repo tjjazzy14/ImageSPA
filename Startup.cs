@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SimpleImageGallery.Data;
+using SimpleImageGallery.Services;
 
 namespace ImageSPA
 {
@@ -25,6 +26,9 @@ namespace ImageSPA
         {
             services.AddDbContext<SimpleImageGalleryDBContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddScoped<IImage, ImageService>();
+
             services.AddMvc();
 
         }
