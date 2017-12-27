@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageSPA", "ImageSPA.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery.Data", "..\SimpleImageGallery.Data\SimpleImageGallery.Data.csproj", "{B7E18333-D077-4AFF-8BE2-01EBD2E2BC9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImageGallery.Services", "..\SimpleImageGallery.Services\SimpleImageGallery.Services.csproj", "{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery.Services", "..\SimpleImageGallery.Services\SimpleImageGallery.Services.csproj", "{4B2A3CE0-550A-42A9-BC74-7ACA5FB20BF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

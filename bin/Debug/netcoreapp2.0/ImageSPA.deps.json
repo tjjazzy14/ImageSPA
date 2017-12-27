@@ -26,7 +26,8 @@
           "Microsoft.AspNetCore.All": "2.0.3",
           "Microsoft.NETCore.App": "2.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.1",
-          "SimpleImageGallery.Data": "1.0.0"
+          "SimpleImageGallery.Data": "1.0.0",
+          "SimpleImageGallery.Services": "1.0.0"
         },
         "runtime": {
           "ImageSPA.dll": {}
@@ -4068,6 +4069,17 @@
           "SimpleImageGallery.Data.dll": {}
         }
       },
+      "SimpleImageGallery.Services/1.0.0": {
+        "dependencies": {
+          "SimpleImageGallery.Data": "1.0.0"
+        },
+        "runtime": {
+          "SimpleImageGallery.Services.dll": {}
+        },
+        "compile": {
+          "SimpleImageGallery.Services.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -6381,6 +6393,11 @@
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
     "SimpleImageGallery.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleImageGallery.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
