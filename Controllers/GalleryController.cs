@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using ImageSPA.Models;
+﻿using ImageSPA.Models;
 using Microsoft.AspNetCore.Mvc;
-using SimpleImageGallery.Data.Models;
-using ImageSPA.Models;
 using SimpleImageGallery.Data;
+using System.Linq;
 
 namespace ImageSPA.Controllers
 {
@@ -29,7 +24,23 @@ namespace ImageSPA.Controllers
             };
             return View(model);
         }
-        /*var hikingImageTags = new List<ImageTag>();
+
+         public IActionResult Detail (int id)
+        {
+            var image = _imageService.GetbyId(id);
+            var model = new GalleryDetailModel()
+            {
+                Id = image.Id,
+                Title = image.Title,
+                CreatedOn = image.Created,
+                Url = image.Url,
+                Tags = image.Tags.Select(t => t.Description).ToList()
+    
+            };
+            return View(model);
+        }
+
+       /*var hikingImageTags = new List<ImageTag>();
         var cityImageTags = new List<ImageTag>();
 
         var tag1 = new ImageTag()
