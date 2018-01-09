@@ -13,3 +13,4 @@ C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\SimpleI
 C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\SimpleImageGallery.Data.pdb
 C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\SimpleImageGallery.Services.dll
 C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\bin\Debug\netcoreapp2.0\SimpleImageGallery.Services.pdb
+C:\Users\tjjazzy\Documents\My Web Sites\ImageSPA\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
